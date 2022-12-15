@@ -9,3 +9,4 @@
 
 
 ![image via http](https://thumbs.dreamstime.com/b/happy-cartoon-watermelon-illustration-looking-47366343.jpg)
+![local asset](/assets/assets-word-written-on-wood-260nw-284183585.webp)
