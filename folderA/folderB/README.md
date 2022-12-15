@@ -6,3 +6,6 @@
 * [other file one layer up double-dot](../other_file_in_parent_folder.md)
 * [other file two layers up double-dot](../../other_file_at_root.md)
 * [other file at root leading slash](/other_file_at_root.md)
+
+
+![image via http](https://thumbs.dreamstime.com/b/happy-cartoon-watermelon-illustration-looking-47366343.jpg)
